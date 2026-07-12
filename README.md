@@ -14,13 +14,13 @@ This repository documents my Python learning journey as a Business Analytics stu
 ### Mini Project
 - Student Report Generator
 
-Current Goal:
-Become a Business Analyst by building strong foundations in:
+### Week 2
+- Functions
+- Parameters
+- Return Statements
+- For Loops
+- While Loops
 
-- Python
-- Excel
-- SQL
-- Power BI
-- Business Analysis
-
-Learning in public, one project at a time.
+  
+## Goal
+To become internship-ready as a Business Analyst by consistently learning Python, Excel, SQL, Power BI, and Business Analysis through Project Phoenix.
